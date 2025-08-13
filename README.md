@@ -1,1 +1,1 @@
-# Windows-Active-Directory-Lab
+# Windows Active Directory Lab
