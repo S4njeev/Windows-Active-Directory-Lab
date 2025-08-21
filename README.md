@@ -11,11 +11,14 @@ Using the Active Directory Users and Computers (ADUC) console, I was able to per
 ---
 
 <!-- User Lifecycle Management -->
-<img src="images/organizational_chart.png" alt="Screenshot of the organizational chart of company" width="400">
-<img src="images/extra_ou.png" alt="Screenshot displaying the extra OU that I am going to delete" width="400">
-<img src="images/permission_to_delete.png" alt="Screenshot showing enabling permission to delete the OU" width="400">
-<img src="images/offboarding_users_from_ou.png" alt="Screenshot showing which users offboarded from the OU" width="400">
-
+<table>
+<tr>
+  <td><img src="images/organizational_chart.png" alt="Screenshot of the organizational chart of company" width="400"></td>
+  <td><img src="images/extra_ou.png" alt="Screenshot displaying the extra OU that I am going to delete" width="400"></td>
+  <td><img src="images/permission_to_delete.png" alt="Screenshot showing enabling permission to delete the OU" width="400"></td>
+  <td><img src="images/offboarding_users_from_ou.png" alt="Screenshot showing which users offboarded from the OU" width="400"></td>
+</tr>
+</table>
 **User Lifecycle Management** – Given the organizational chart + contradictory AD displayed above, I was able to practice disabling and deleting Organizational Units (OU) and accounts to improve security during offboarding or inactivity.
 
 ---
