@@ -10,6 +10,32 @@ Using the Active Directory Users and Computers (ADUC) console, I was able to per
 
 ---
 
-![Organizational Chart](images/organizational_chart.png) ![Extra OU](images/extra_ou.png) ![Permission To Delete](images/permission_to_delete.png) ![Offboarding Users](images/offboarding_users_from_ou.png)
+<!-- User Lifecycle Management -->
+<img src="images/organizational_chart.png" alt="Screenshot of the organizational chart of company" width="400">
+<img src="images/extra_ou.png" alt="Screenshot displaying the extra OU that I am going to delete" width="400">
+<img src="images/permission_to_delete.png" alt="Screenshot showing enabling permission to delete the OU" width="400">
+<img src="images/offboarding_users_from_ou.png" alt="Screenshot showing which users offboarded from the OU" width="400">
 
-**User Lifecycle Management:** Given the organizational chart and contradictory AD displayed above, I was able to practice disabling and deleting the Organizational Units (OU) and accounts to improve security during offboarding or inactivity.
+**User Lifecycle Management** – Given the organizational chart + contradictory AD displayed above, I was able to practice disabling and deleting Organizational Units (OU) and accounts to improve security during offboarding or inactivity.
+
+---
+
+<!-- Group Management -->
+<img src="images/delegation_control_wizard.png" alt="ADUC screenshot showing group creation and user assignments" width="600">
+
+**Group Management** – Created security groups with descriptive names and assigned users to manage permissions and resource access.
+
+---
+
+<!-- User Delegation -->
+<img src="images/delegation_of_permission.png" alt="ADUC screenshot showing delegated permissions for a user" width="600">
+
+**User Delegation** — Assigned a user from the IT OU the permission to reset passwords for all users in the Sales department, demonstrating controlled administrative access.
+
+---
+
+<!-- Helpdesk Simulation -->
+<img src="images/rdp_connection_screen.png" alt="RDP screenshot showing password reset step 1" width="400">
+<img src="images/reset_password_at_logon.png" alt="RDP screenshot showing password reset step 2" width="400">
+
+**Helpdesk Simulation** — Logged in via RDP as the delegated account to perform a password reset, replicating a common IT support workflow.
