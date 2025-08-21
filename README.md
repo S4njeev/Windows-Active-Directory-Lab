@@ -8,4 +8,7 @@ This project details my hands-on work with Microsoft Active Directory (AD) and W
 
 Using the Active Directory Users and Computers (ADUC) console, I was able to perform the following tasks:
 
-### User Lifecycle Management -- Prac
+---
+
+![Organizational Chart](images/organizational_chart.png)
+**User Lifecycle Management:** Given the organizational chart and contradictory AD displayed above, I was able to practice disabling and deleting the Organizational Units (OU) and accounts to improve security during offboarding or inactivity.
