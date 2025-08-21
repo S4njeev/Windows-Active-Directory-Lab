@@ -6,7 +6,7 @@ This project details my hands-on work with Microsoft Active Directory (AD) and W
 
 ## Project Explanation
 
-***Using the Active Directory Users and Computers (ADUC) console, I was able to perform the following tasks:***
+**Using the Active Directory Users and Computers (ADUC) console, I was able to perform the following tasks:**
 
 
 
