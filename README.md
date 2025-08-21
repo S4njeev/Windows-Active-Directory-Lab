@@ -10,34 +10,42 @@ Using the Active Directory Users and Computers (ADUC) console, I was able to per
 
 ---
 
-<img src="images/organizational_chart.png" alt="Screenshot of the organizational chart of company" width="600">
-
-<div style="display: flex; gap: 10px; justify-content: flex-start;">
-  <img src="images/extra_ou.png" alt="Screenshot displaying the extra OU that I am going to delete" width="295">
-  <img src="images/permission_to_delete.png" alt="Screenshot showing enabling permission to delete the OU" width="295">
+<div style="text-align: center;">
+  <img src="images/organizational_chart.png" alt="Screenshot of the organizational chart of company" width="550">
 </div>
 
-<img src="images/offboarding_users_from_ou.png" alt="Screenshot showing which users offboarded from the OU" width="600">
+<div style="text-align: center;">
+  <img src="images/extra_ou.png" alt="Screenshot displaying the extra OU that I am going to delete" width="270" style="display: inline-block;">
+  <img src="images/permission_to_delete.png" alt="Screenshot showing enabling permission to delete the OU" width="270" style="display: inline-block;">
+</div>
+
+<div style="text-align: center;">
+  <img src="images/offboarding_users_from_ou.png" alt="Screenshot showing which users offboarded from the OU" width="550">
+</div>
 
 **User Lifecycle Management** – Given the organizational chart + contradictory AD displayed above, I was able to practice disabling and deleting Organizational Units (OU) and accounts to improve security during offboarding or inactivity.
 
 ---
 
-<img src="images/delegation_control_wizard.png" alt="ADUC screenshot showing group creation and user assignments" width="600">
+<div style="text-align: center;">
+  <img src="images/delegation_control_wizard.png" alt="ADUC screenshot showing group creation and user assignments" width="550">
+</div>
 
 **Group Management** – Created security groups with descriptive names and assigned users to manage permissions and resource access.
 
 ---
 
-<img src="images/delegation_of_permission.png" alt="ADUC screenshot showing delegated permissions for a user" width="600">
+<div style="text-align: center;">
+  <img src="images/delegation_of_permission.png" alt="ADUC screenshot showing delegated permissions for a user" width="550">
+</div>
 
 **User Delegation** — Assigned a user from the IT OU the permission to reset passwords for all users in the Sales department, demonstrating controlled administrative access.
 
 ---
 
-<div style="display: flex; gap: 10px; justify-content: flex-start;">
-  <img src="images/rdp_connection_screen.png" alt="RDP screenshot showing password reset step 1" width="400">
-  <img src="images/reset_password_at_logon.png" alt="RDP screenshot showing password reset step 2" width="500">
+<div style="text-align: center;">
+  <img src="images/rdp_connection_screen.png" alt="RDP screenshot showing password reset step 1" width="350" style="display: inline-block;">
+  <img src="images/reset_password_at_logon.png" alt="RDP screenshot showing password reset step 2" width="450" style="display: inline-block;">
 </div>
 
 **Helpdesk Simulation** — Logged in via RDP as the delegated account to perform a password reset, replicating a common IT support workflow.
