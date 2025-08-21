@@ -6,9 +6,9 @@ This project details my hands-on work with Microsoft Active Directory (AD) and W
 
 ## Project Explanation
 
-Using the Active Directory Users and Computers (ADUC) console, I was able to perform the following tasks:
+***Using the Active Directory Users and Computers (ADUC) console, I was able to perform the following tasks:***
 
----
+
 
 <div style="text-align: center;">
   <img src="images/organizational_chart.png" alt="Screenshot of the organizational chart of company" width="550">
