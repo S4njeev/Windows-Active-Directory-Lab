@@ -10,6 +10,7 @@ Using the Active Directory Users and Computers (ADUC) console, I was able to per
 
 
 
+
 <img src="images/organizational_chart.png" alt="Screenshot of the organizational chart of company" width="600">
 
 <div style="display: flex; gap: 10px; justify-content: flex-start;">
@@ -23,15 +24,18 @@ Using the Active Directory Users and Computers (ADUC) console, I was able to per
 
 
 
+
 <img src="images/delegation_control_wizard.png" alt="ADUC screenshot showing group creation and user assignments" width="600">
 
 **Group Management** – Created security groups with descriptive names and assigned users to manage permissions and resource access.
 
 
 
+
 <img src="images/delegation_of_permission.png" alt="ADUC screenshot showing delegated permissions for a user" width="600">
 
 **User Delegation** — Assigned a user from the IT OU the permission to reset passwords for all users in the Sales department, demonstrating controlled administrative access.
+
 
 
 
