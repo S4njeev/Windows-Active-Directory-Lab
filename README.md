@@ -10,5 +10,6 @@ Using the Active Directory Users and Computers (ADUC) console, I was able to per
 
 ---
 
-![Organizational Chart](images/organizational_chart.png)
+![Organizational Chart](images/organizational_chart.png) ![Extra OU](images/extra_ou.png)
+
 **User Lifecycle Management:** Given the organizational chart and contradictory AD displayed above, I was able to practice disabling and deleting the Organizational Units (OU) and accounts to improve security during offboarding or inactivity.
