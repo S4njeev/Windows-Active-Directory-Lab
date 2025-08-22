@@ -4,6 +4,15 @@ This project details my hands-on work with Microsoft Active Directory (AD) and W
 
 ---
 
+<h2>Tools Used</h2>
+
+*Active Directory Users and Computers (ADUC)
+*Remote Desktop Protocol (RDP)
+*Command Prompt
+*Group Policy Management Editor
+
+---
+
 ## Project Explanation
 
 **Using the Active Directory Users and Computers (ADUC) console, I was able to perform the following tasks:**
