@@ -6,10 +6,10 @@ This project details my hands-on work with Microsoft Active Directory (AD) and W
 
 <h2>Tools Used</h2>
 
-*Active Directory Users and Computers (ADUC)
-*Remote Desktop Protocol (RDP)
-*Command Prompt
-*Group Policy Management Editor
+1. Active Directory Users and Computers (ADUC)
+2. Remote Desktop Protocol (RDP)
+3. Command Prompt
+4. Group Policy Management Editor
 
 ---
 
