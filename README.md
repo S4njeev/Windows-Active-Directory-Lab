@@ -49,9 +49,9 @@ This project details my hands-on work with Microsoft Active Directory (AD) and W
   <img src="images/gpo_manager.png" alt="GPO manager showing existing policies" width="450" />
   <img src="images/link_gpo_to_ou.png" alt="Linking GPO to OU" width="450" />
 </p>
-<br/><br/>
-**Group Policy Objects (GPOs)** — Reviewed existing policies like password rules, software restrictions, and user rights assignment to understand configuration, then created and linked a custom GPO to the correct OU for targeted enforcement.
 
+**Group Policy Objects (GPOs)** — Reviewed existing policies like password rules, software restrictions, and user rights assignment to understand configuration, then created and linked a custom GPO to the correct OU for targeted enforcement.
+<br/><br/>
 ---
 ## Conclusion
 
