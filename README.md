@@ -44,7 +44,7 @@ This project details my hands-on work with Microsoft Active Directory (AD) and W
 </p>
 
 **Helpdesk Simulation** — Logged in via RDP as the delegated account to perform a password reset, replicating a common IT support workflow.
-
+<br/><br/>
 <p align="center">
   <img src="images/gpo_manager.png" alt="GPO manager showing existing policies" width="450" />
   <img src="images/link_gpo_to_ou.png" alt="Linking GPO to OU" width="450" />
