@@ -25,11 +25,11 @@ This project details my hands-on work with Microsoft Active Directory (AD) and W
 </p>
 
 **User Lifecycle Management** – Given the organizational chart + contradictory AD displayed above, I was able to practice disabling and deleting Organizational Units (OU) and accounts to improve security during offboarding or inactivity.
-<br/><br/>
+---
 <p align="center">
   <img src="images/delegation_control_wizard.png" alt="Group creation and user assignments" width="500" />
 </p>
----
+
 **Group Management** – Created security groups with descriptive names and assigned users to manage permissions and resource access.
 ---
 <p align="center">
@@ -51,7 +51,6 @@ This project details my hands-on work with Microsoft Active Directory (AD) and W
 </p>
 
 **Group Policy Objects (GPOs)** — Reviewed existing policies like password rules, software restrictions, and user rights assignment to understand configuration, then created and linked a custom GPO to the correct OU for targeted enforcement.
-
 ---
 ## Conclusion
 
