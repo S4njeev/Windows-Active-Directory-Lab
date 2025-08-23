@@ -48,7 +48,7 @@ This project details my hands-on work with Microsoft Active Directory (AD) and W
 
 <p align="center">
   <img src="images/rdp_connection_screen.png" alt="RDP password reset step 1" width="340" />
-  <img src="images/reset_password_at_logon.png" alt="RDP password reset step 2" width="440" />
+  <img src="images/reset_password_at_logon.png" alt="RDP password reset step 2" width="600" />
 </p>
 
 **Helpdesk Simulation** — Logged in via RDP as the delegated account to perform a password reset, replicating a common IT support workflow.
