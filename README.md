@@ -44,3 +44,15 @@ This project details my hands-on work with Microsoft Active Directory (AD) and W
 </p>
 
 **Helpdesk Simulation** — Logged in via RDP as the delegated account to perform a password reset, replicating a common IT support workflow.
+
+<p align="center">
+  <img src="images/gpo_manager.png" alt="GPO manager showing existing policies" width="450" />
+  <img src="images/link_gpo_to_ou.png" alt="Linking GPO to OU" width="450" />
+</p>
+
+**Group Policy Objects (GPOs)** — Reviewed existing policies like password rules, software restrictions, and user rights assignment to understand configuration, then created and linked a custom GPO to the correct OU for targeted enforcement.
+
+---
+## Conclusion
+
+This project provided me with direct experience in how Active Directory structures, policies, and permissions support day-to-day IT operations. The practical knowledge I gained proved highly valuable, strengthening my technical skills and deepening my understanding of secure user and resource management.
